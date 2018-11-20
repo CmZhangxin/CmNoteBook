@@ -87,6 +87,15 @@
 
 
 
+**工厂模式**
+
+使用接口实现工厂模式，serviceFactory工厂接口，implementationFactory1和implementationFactory2 是两种类型的工厂。service 是产品接口，service1和service2是两种产品。不同的工厂生产不同的产品
+![](https://i.imgur.com/DnrKpR2.png)
+
+
+## 8.1 内部类
+
+
 
    
    
